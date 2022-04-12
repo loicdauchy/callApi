@@ -1,0 +1,12 @@
+#main{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+.card-text{
+    height: 200px;
+    overflow: hidden;
+}
